@@ -1,7 +1,7 @@
 # stream-wrapper
 
-Drop-in replacement for the core [stream](http://nodejs.org/api/stream.html)
-that allows you to create streams from `read`/`write` functions.
+Drop-in replacement for the core [stream](http://nodejs.org/api/stream.html) module
+that allows you to wrap `read`/`write`/`transform` functions into streams.
 
 	npm install stream-wrapper
 
