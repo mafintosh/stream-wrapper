@@ -1,0 +1,14 @@
+{
+  "name": "stream-wrapper",
+  "version": "0.1.0",
+  "repository": "git://github.com/mafintosh/stream-wrapper.git",
+  "license": "MIT",
+  "description": "Create streams from read/write functions",
+  "keywords": [
+  	"stream",
+  	"easy",
+  	"wrap",
+  	"streams2",
+  ],
+  "author": "Mathias Buus Madsen <mathiasbuus@gmail.com>"
+}
