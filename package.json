@@ -5,10 +5,14 @@
   "license": "MIT",
   "description": "Wrap read/write/transform functions into streams",
   "keywords": [
-  	"streams2",
-  	"stream",
-  	"wrap",
-  	"functional"
+    "streams2",
+    "stream",
+    "wrap",
+    "functional"
   ],
-  "author": "Mathias Buus Madsen <mathiasbuus@gmail.com>"
+  "author": "Mathias Buus Madsen <mathiasbuus@gmail.com>",
+  "dependencies": {
+    "readable-stream": "~1.0.15",
+    "xtend": "~2.0.6"
+  }
 }
