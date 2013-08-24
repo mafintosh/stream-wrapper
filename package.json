@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "repository": "git://github.com/mafintosh/stream-wrapper.git",
   "license": "MIT",
-  "description": "Create streams from read/write functions",
+  "description": "Wrap read/write/transform functions into streams",
   "keywords": [
   	"streams2",
   	"stream",
