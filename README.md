@@ -5,7 +5,7 @@ that allows you to create streams from `read`/`write` functions.
 
 	npm install stream-wrapper
 
-All created streams are stream2 streams
+All streams create are stream2 streams
 
 ## Readable Stream
 
