@@ -1,9 +1,11 @@
 # stream-wrapper
 
-Drop-in replacement for the core [stream](http://nodejs.org/api/stream.html) module
-with default destroy methods and easy stream creation
+Drop-in replacement for the core [stream](http://nodejs.org/api/stream.html)
+that allows you to create streams from `read`/`write` functions.
 
 	npm install stream-wrapper
+
+All created streams are stream2 streams
 
 ## Readable Stream
 
